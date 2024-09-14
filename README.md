@@ -2,6 +2,9 @@
 
 - Multi-task learning (MTL) is a machine learning approach where a model is trained simultaneously on multiple related tasks!
 
+Libraries used:
+- Pandas, Numpy, Scikit-learn, nltk, tensorflowm seaborn, matplotlib
+
 
 Following is the architecture of the project:
 - [Architecture](https://github.com/user-attachments/assets/597b47c6-33bd-4570-bbf5-894d4346f6b9)
