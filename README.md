@@ -9,7 +9,7 @@ Libraries used:
 Following is the architecture of the project:
 - [Architecture](https://github.com/user-attachments/assets/597b47c6-33bd-4570-bbf5-894d4346f6b9)
 
-Datasets:
+Datasets: <br>
 (i) Emotion Data: 
  https://www.kaggle.com/datasets/nelgiriyewithana/emotions <br>
 (ii) Violence Data:
