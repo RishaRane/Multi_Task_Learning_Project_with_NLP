@@ -11,11 +11,11 @@ Following is the architecture of the project:
 
 Datasets:
 (i) Emotion Data: 
- https://www.kaggle.com/datasets/nelgiriyewithana/emotions
+ https://www.kaggle.com/datasets/nelgiriyewithana/emotions <br>
 (ii) Violence Data:
-https://www.kaggle.com/datasets/gauravduttakiit/gender-based-violence-tweet-classification?select=Train.csv
+https://www.kaggle.com/datasets/gauravduttakiit/gender-based-violence-tweet-classification?select=Train.csv <br>
 (iii) Hate Speech Data:
-https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset
+https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset <br>
 
 Compontents:
 
