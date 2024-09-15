@@ -9,6 +9,14 @@ Libraries used:
 Following is the architecture of the project:
 - [Architecture](https://github.com/user-attachments/assets/597b47c6-33bd-4570-bbf5-894d4346f6b9)
 
+Datasets:
+(i) Emotion Data: 
+ https://www.kaggle.com/datasets/nelgiriyewithana/emotions
+(ii) Violence Data:
+https://www.kaggle.com/datasets/gauravduttakiit/gender-based-violence-tweet-classification?select=Train.csv
+(iii) Hate Speech Data:
+https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset
+
 Compontents:
 
 (i) Individual Inputs:
